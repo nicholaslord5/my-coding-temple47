@@ -1,4 +1,4 @@
-let balance = 0; // Starting with zero balance
+let balance = 0;
 
 function deposit(amount) {
   if (amount <= 0) {
